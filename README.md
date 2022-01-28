@@ -1,6 +1,6 @@
 # GradWorkCrowdSimulation
 
-This repository will only include the blueprint files that change throughout the project
+This repository will only include the blueprint files that change throughout the project and the source code for these blueprints.
 
-and the source code for these blueprints
+Aswell as the actual paper.
 
